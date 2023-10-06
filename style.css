@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+p {
+	font: italic bold 15px arial, sans-serif;
+	margin: 0;
+	text-align: justify;
+	text-indent: 3ch;
+  
+}
+
+.Imagemviagem {
+	text-align: center;
+	margin: auto;
+	display: block;
+	width: 300px;
+}
